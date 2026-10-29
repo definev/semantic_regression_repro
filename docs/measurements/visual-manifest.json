@@ -1,0 +1,6 @@
+{
+  "framework_before_sha256": "afda94bf11f63f6546c8ff7cab045f5cb79e4fe0f43e2a9a7245126401b5a187",
+  "framework_after_sha256": "68c931a1731466eab6f2438b7fedd3613024d47cf8d8dc1a44d2bddd5a473ab2",
+  "demo_sha256": "0980f5664d670833b91ed091ce0747f122acf89872f73b877a329252e59af3cb",
+  "base_commit": "047cf8e385aee01751767268e275c92670ebf52c"
+}
